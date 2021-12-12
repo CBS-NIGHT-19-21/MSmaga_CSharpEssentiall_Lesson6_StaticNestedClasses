@@ -39,7 +39,8 @@
             book.Notes.ShowMarks(5);
             book.Notes.ShowMark(3);
 
-
+            // Delay.
+            Console.ReadLine();
         }
     }
 }
